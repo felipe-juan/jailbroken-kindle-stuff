@@ -9,7 +9,7 @@ Aside the wallpapers I'm currently using, I might add my KOReader configs files 
 - Gestures
 - Reading Statistics
 - Vocabulary Builder
-- Tweak Docuemnt Settings
+- Tweak Document Settings
 
 **Taps and Gestures Managements:**
 - Tap Corner:
