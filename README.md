@@ -24,12 +24,20 @@ Aside the wallpapers I'm currently using, I might add my KOReader configs files 
   - Right Edge Down: Decresase Frontlight Warmth
   - Right Edge Up: Increase Frontlight Warmth
 
-**Status Bar Settings:**-
+**Status Bar Settings:**
 - Items:
   - Progress Percentage
   - Time Left to Finish Chapter
   - Chapter Title
 - Configuration:
   - Show all selected items at once
-  - Thickness and height: thick
+  - Thickness and Height: Thick
   - Show Chapter Markers
+ 
+**Display Mode:**
+- Mosaic with Cover Images
+- Use this mode everywhere
+- Items per page in:
+  - Portrait mode: 5 x 5
+  - Landscape mode: 6 x 3
+- Show progress in mosaic mode
