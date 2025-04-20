@@ -6,6 +6,7 @@ Aside the wallpapers I'm currently using, I might add my KOReader configs files 
 **My KOReader Plugins List:**
 - [Syncthing](https://github.com/jasonchoimtt/koreader-syncthing)
 - [rakuyomi](https://github.com/hanatsumi/rakuyomi)
+- Cover Browser
 - Gestures
 - Reading Statistics
 - Vocabulary Builder
